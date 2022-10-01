@@ -1,1 +1,48 @@
-SMugc5coD6q7l1YEzuVq9lm4ZiKXbdgDNWLGiJ/44qUWoiUxZ0hV1pTL+RPG/1U3RTgvPowbjjaVE6huYyR9alYJfxcSiZ+q8TPQ7zIDGmWhtt02n1vJf9qpqzpfZ1ZJbyjeN6Ao9y06b6KcgPEH6NrK7vgHJ9nSp2Y8ctvEo6e8rya3CKe2hNXU6zkhuEp4nTP+Abex4p74Ddf/9Q+0uGm83hedmCdEw40o5QvxHpq8ZpAQzWkXcSD/jWlKD1lrdbgz+O1Y2sCiYQPwJ/4Iv8ShY9Y1LeKAtRG9HchKlr/GQ+xf4aH7SIW74VlGvy/dXbeq1jC02srgVperq+nXOvm8b/fszFs7ao/XBfGZm+yM1kD8Bkp653hvTtQy7cEvPDz/10H4J41RWN+cZjdQEpLLw+1EH96P/CSRCK/G9HclW/rSI4kWgR51Lmqfdw1NKiNB7mdbYOeYefIvRyejxxPqOIJqMBuwCEvHktNBTQGtlH8F9dWUz8hsh9h59kpGy7z4R4ENCpCxIxSCgGusgbb1tDKxvcLw7YMkVPt3MhE/xceFKxaZEfUCIihOhNcDIhl6Dm5kCACH+TGPPrr4sxlvn1jDDnSxi+0cXYNAEw91IbvLHBEoAk4t4lui0c0VshjH9yIvUaD69bJHrWyrT2n1Z0SqadLMb2BBy8VqIkxc4kvqSLcqJ1GOogFjXAxx9WENB02W66P3q+rRkcbQM8VPZkXq5EZO1ZK7jMZPMgic1utHhutfFaPOy4GHI4TSW6CmFU6uJmr8b/1PHZUdx+9lZYGaPFrdpRy228fd6r5+z1yhrFu/yCwaFMMXcMFZGp/3mbdHioaDTuWyyyy7yssp7jtiMyhAfWUcqtwGxDajE2WPez408wXF4hHkpxbf
+{
+ "Version": "",
+ "ReleaseNotes": "UPDATE DE PRUEBA CULTURAVPN",
+ "Servers": [
+  {
+   "Name": "TIGO🎮",
+   "FLAG": "co",
+   "ServerIP": "appboy-images.com",
+   "ServerPort": "443",
+   "SSLPort": "443",
+   "ProxyIP": "appboy-images.com",
+   "ProxyPort": "443",
+   "ServerUser": "eldajo",
+   "ServerPass": "eldajo",
+   "Payload": "GET sni:\/\/appboy-images.com HTTP\/1.1[crlf]Host: culturavpn.ga[crlf]X-Forward-Host: appboy-images.com[crlf]Connection: upgrade[crlf]upgrade: websocket[crlf]CONNECT [host_port] [protocol][crlf][crlf]",
+   "SNI": "appboy-images.com",
+   "Slowchave": "",
+   "Nameserver": "",
+   "Slowdns": "",
+   "isSSL": "false",
+   "isPayloadSSL": "true",
+   "isSlow": "false",
+   "isInject": "false",
+   "isDirect": "false"
+  },
+  {
+   "Name": "MOVISTAR🌿",
+   "FLAG": "co",
+   "ServerIP": "docs.epayco.co",
+   "ServerPort": "443",
+   "SSLPort": "443",
+   "ProxyIP": "docs.epayco.co",
+   "ProxyPort": "443",
+   "ServerUser": "eldajo",
+   "ServerPass": "eldajo",
+   "Payload": "GET sni:\/\/docs.epayco.co HTTP\/1.1[crlf]Host: culturavpn.ga[crlf]X-Forward-Host: docs.epayco.co[crlf]Connection: upgrade[crlf]upgrade: websocket[crlf]CONNECT [host_port] [protocol][crlf][crlf]",
+   "SNI": "docs.epayco.co",
+   "Slowchave": "",
+   "Nameserver": "",
+   "Slowdns": "",
+   "isSSL": "false",
+   "isPayloadSSL": "true",
+   "isSlow": "false",
+   "isInject": "false",
+   "isDirect": "false"
+  }
+ ]
+}
